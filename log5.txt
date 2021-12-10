@@ -1,0 +1,41 @@
+
+
+Last Best Val = 0.916
+iteration = 40 ----- lr = 0.001
+
+
+Last Best Val = 0.916
+iteration = 41 ----- lr = 0.001
+
+
+Last Best Val = 0.916
+iteration = 42 ----- lr = 0.001
+
+
+Last Best Val = 0.916
+iteration = 43 ----- lr = 0.001
+
+
+Last Best Val = 0.916
+iteration = 44 ----- lr = 0.001
+
+
+Last Best Val = 0.916
+iteration = 45 ----- lr = 0.001
+
+
+Last Best Val = 0.916
+iteration = 46 ----- lr = 0.001
+
+
+Last Best Val = 0.916
+iteration = 47 ----- lr = 0.001
+
+
+Last Best Val = 0.916
+best model = 0.9292995929718018
+iteration = 48 ----- lr = 0.001
+
+
+Last Best Val = 0.9292995929718018
+iteration = 49 ----- lr = 0.001

@@ -1,0 +1,40 @@
+
+
+Last Best Val = 0.9766
+iteration = 150 ----- lr = 0.005
+
+
+Last Best Val = 0.9766
+iteration = 151 ----- lr = 0.005
+
+
+Last Best Val = 0.9766
+iteration = 152 ----- lr = 0.005
+
+
+Last Best Val = 0.9766
+iteration = 153 ----- lr = 0.005
+
+
+Last Best Val = 0.9766
+iteration = 154 ----- lr = 0.005
+
+
+Last Best Val = 0.9766
+iteration = 155 ----- lr = 0.005
+
+
+Last Best Val = 0.9766
+iteration = 156 ----- lr = 0.005
+
+
+Last Best Val = 0.9766
+iteration = 157 ----- lr = 0.005
+
+
+Last Best Val = 0.9766
+iteration = 158 ----- lr = 0.005
+
+
+Last Best Val = 0.9766
+iteration = 159 ----- lr = 0.005

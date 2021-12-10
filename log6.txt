@@ -1,0 +1,46 @@
+
+
+Last Best Val = 0.9292
+best model = 0.9585662484169006
+best model = 0.9634988307952881
+best model = 0.9641565084457397
+iteration = 50 ----- lr = 0.0005
+
+
+Last Best Val = 0.9641565084457397
+iteration = 51 ----- lr = 0.0005
+
+
+Last Best Val = 0.9641565084457397
+iteration = 52 ----- lr = 0.0005
+
+
+Last Best Val = 0.9641565084457397
+iteration = 53 ----- lr = 0.0005
+
+
+Last Best Val = 0.9641565084457397
+iteration = 54 ----- lr = 0.0005
+
+
+Last Best Val = 0.9641565084457397
+best model = 0.9678833484649658
+iteration = 55 ----- lr = 0.0005
+
+
+Last Best Val = 0.9678833484649658
+best model = 0.9691987037658691
+iteration = 56 ----- lr = 0.0005
+
+
+Last Best Val = 0.9691987037658691
+iteration = 57 ----- lr = 0.0005
+
+
+Last Best Val = 0.9691987037658691
+iteration = 58 ----- lr = 0.0005
+
+
+Last Best Val = 0.9691987037658691
+best model = 0.9705140590667725
+iteration = 59 ----- lr = 0.0005

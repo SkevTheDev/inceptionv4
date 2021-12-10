@@ -1,0 +1,45 @@
+
+
+Last Best Val = 0.9424
+best model = 0.9426723718643188
+iteration = 30 ----- lr = 5e-05
+
+
+Last Best Val = 0.9426723718643188
+best model = 0.9427819848060608
+iteration = 31 ----- lr = 5e-05
+
+
+Last Best Val = 0.9427819848060608
+iteration = 32 ----- lr = 5e-05
+
+
+Last Best Val = 0.9417954683303833
+best model = 0.9426723718643188
+iteration = 33 ----- lr = 5e-05
+
+
+Last Best Val = 0.9426723718643188
+iteration = 34 ----- lr = 5e-05
+
+
+Last Best Val = 0.9426723718643188
+best model = 0.9427819848060608
+iteration = 35 ----- lr = 5e-05
+
+
+Last Best Val = 0.9427819848060608
+iteration = 36 ----- lr = 5e-05
+
+
+Last Best Val = 0.9126383662223816
+best model = 0.9160363674163818
+iteration = 37 ----- lr = 5e-05
+
+
+Last Best Val = 0.9160363674163818
+iteration = 38 ----- lr = 5e-05
+
+
+Last Best Val = 0.9050750732421875
+iteration = 39 ----- lr = 5e-05
